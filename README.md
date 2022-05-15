@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SneHijam
+- 👋 Hello, I’m Sneha.
 - 👀 I’m interested in exploring new things.
 - 🌱 I’m currently learning the approach of Markdown, Jekyll using Github.
 
